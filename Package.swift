@@ -25,6 +25,6 @@ let package = Package(
                 .product(name: "ZohoDeskPlatformDataBridge", package: "ZohoDeskPlatformDataBridge"),
                 .product(name: "ZDMediaPickerSDK", package: "ZDMediaPickerSDK")
             ]),
-        .binaryTarget(name: "ZohoDeskPlatformUIKit", url: "https://maven.zohodl.com/ZohoDesk/ZohoDeskPlatformUIKit/iOS/2.0.0-beta.3/ZDPUIBuilder.zip", checksum: "9a8a3b9cc477b602ffc532ce6730fbd41ddab4d927d49a3946ea705b7166025e")
+        .binaryTarget(name: "ZohoDeskPlatformUIKit", url: "https://maven.zohodl.com/ZohoDesk/ZohoDeskPlatformUIKit/iOS/2.0.0-beta.5/ZDPUIBuilder.zip", checksum: "303ef8189206b065aac3c8ba4aac4e1a29010b06a25b968893c90627f3f3eef9")
     ]
 )
